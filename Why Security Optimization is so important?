@@ -1,0 +1,48 @@
+Security Optimization as a Service Portfolio is the right solution to prevent a full downtime and costly security incidents by analyzing high-risk violations and taking security measures proactively.
+ 
+By using Security Optimization Service, you can avoid business interruptions and ensure that the security aspect of SAP solutions is managed properly, reducing risk. As a result of this service, you will be able to concentrate on your daily business requirements instead of spending time handling the complexities of security maintenance. The advantages are:
+Decrease the risk of a system intrusion
+Ensure the confidentiality of your business data
+Ensure the authenticity of your users
+Substantially reduce the risk of costly downtime due to wrong user interaction
+ 
+Where to start?
+The EarlyWatch Alert (EWA) report is the most comprehensive snapshot of your SAP systems. The Security section gives you a detailed analysis, more accurate information to keep your SAP systems protected along with the root cause analysis of various findings.
+Refer to the SAP note # 863362 to know more about the security checks in the EWA report. Incase if the EWA report generation is not yet configured, refer to SAP note # 2282944 (EarlyWatch Alert: Solution Manager 7.2 how to set up/configure EWA reports or add email recipients) that details the steps to configure.
+ 
+Is EarlyWatch (EWA) report itself is enough?
+Certainly not. While EWA gives you a snapshot of your system, Solution Manager has lot many features that could help you to safeguard your SAP system. Experts recommend implementing additional tools like the Security Optimization Service, System Recommendations configuration in Solution Manager, or Change Diagnostics and Configuration Validation, also called as E2E Change Analysis and Change Reporting and Configuration Validation in Solution Manager.
+These tools can be configured easily that adds an additional layer of security.
+ 
+Great. Will this be sufficient for me to keep my system secure?
+May be not. No solution can give you 100% gurantee. Monitoring the systems against the Security baseline is much important and is a contineous activity. In addition to utilizing the standard Security baselines by SAP, experts recommend to use additional applications such as SAP GRC Process Control, Risk Management etc.,
+ToggleNow boasts an easy-to-use reporting application called GAMS360. It provides 100+ baseline reports for review, so it’s easy to spot problems as they arise. Further, the system trigger alerts for immediate review by the system owners/controllers.
+ 
+Can these tools help me to protect my SAP systems completely?
+Are these tools capable enough to detect and stop all sorts of risks associated with my SAP systems?
+There are a variety of ways to protect your SAP systems. As mentioned, no single tool/product can make your SAP system free from risks. Incase if you have an authorization setup built a decade ago, uou may also need to consider an SAP Security Engagement which will provide you with an expert-guided analysis and approach for your SAP landscape.
+ToggleNow enables its customers to leverage their business processes and streamline their security measures as part of the SAP Digital Transformation program.
+One that will help you to discover the ASIS and derive a TOBE Roadmap.
+Second, that will identify the various processes where automation can be implemented quickly.
+We take the EarlyWatch report as the baseline and also run various scripts to extract the current status of the system. This will be our starting point to offer detailed services mainly around Security Optimization.
+Combining the results of the initial discovery, the security policy of the company, and the subject matter expertise, we define the SAP Security Baseline and make the necessary tweaks in the application, and the tools selected.
+ 
+What else is required?
+Well, there is no big list. We additionally recommend our customers to “Stay clean” and “Stay in-compliant” which is possible with the use of the right GRC solutions.
+In case if you have SAP GRC in place, it is of utmost importance to Upgrade the SAP GRC version to the latest and utilizes all the features such as User Access Review, SoD Review, Firefighter ID review, and so on.
+ 
+Read more: https://togglenow.com/blog/security-optimization-importance/
+ 
+#SAPAuthorizationredesign
+#SAPAuthorizationReview
+#SAPAuthorizationDesign
+#SAPRoleDesign
+#SAPsecurityroledesign
+#SAPsecurityaudit
+#AuditManagement
+#SAPAuditServices
+#SAPAuditManagement
+#SAPSODAnalysis tool
+#SAPSODAnalyzer
+
+
